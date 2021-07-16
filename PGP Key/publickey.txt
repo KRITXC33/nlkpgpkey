@@ -1,7 +1,4 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: v1.0.0
-
-
 xsBNBGDxuLkBCACqpg1uiyrQ3+ok71Dg/TzflXwUWlg2RHWNy2NfHKtNvcFcxgVI
 /bEn1RyXrTsGa3pocyxrnlX1YsUTY391/aFSWNzzRqaqMculdiCJn+rrwUNr6NIY
 aT8wIH+xujLubL7ClxPStcdr4kYPrZvVuOPexl2WdZxsPcbE59qo4OdYqaG5wymx
